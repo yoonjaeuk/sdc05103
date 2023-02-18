@@ -9,7 +9,7 @@
 <img src = "https://img.shields.io/badge/Java-FF0000?style=flat-square&logo=Java&logoColor=white"/>
 <img src = "https://img.shields.io/badge/C-FFFF00?style=flat-square&logo=C&logoColor=black"/>
 <img src= "https://img.shields.io/badge/Django-FFFFFF?style=flat-square&logo=Django&logoColor=black"/>
-<img src = "https://img.shields.io/badge/Mysql-FFCC99?style=flat-square&logo=Mysql&logoColor=black"/>
+<img src = "https://img.shields.io/badge/Mysql-00AAFF?style=flat-square&logo=Mysql&logoColor=white"/>
 </p>
 
 <h3 align="center"> Algorithm Studying</h3>
