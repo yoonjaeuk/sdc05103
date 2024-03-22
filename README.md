@@ -15,10 +15,10 @@
 
 <h3 align="center"><a href="https://yoonstudy-diary.tistory.com/" target="_blank">Chaeyoon's CS STUDY</a></h3>
  <p align="center">
- <h5 align="center"> Data-Structure(Stack, Queue, Tree(including BST, Segment Tree) , Graph , Linked-list) </h5>
- <h5 align="center"> Algorithm(DFS, BFS, Binary-Search, Selection, Insertion, Quick, Merge, Radix, Topological) </h5>
- <h5 align="center"> Operating System(Process, Thread, PCB, IPC, CPU Scheduling, Paging, Momory, File System) </h5>
- <h5 align="center"> Network(7 Layers of the OSI Model, TCP/UDP, Load Balancing, TLS/SSL) </h5>
+ <h5 align="center"> Data-Structure(Stack, Queue, Tree , Graph , Linked-list) </h5>
+ <h5 align="center"> Algorithm(DFS, BFS, Binary-Search, Selection, Insertion, Quick, Merge, Radix) </h5>
+ <h5 align="center"> Operating System(Process/Thread, PCB, IPC, CPU Scheduling, Momory, File System) </h5>
+ <h5 align="center"> Network(7 Layers of the OSI Model, Load Balancing, TLS/SSL) </h5>
 </p>
 
 <p align="center">
