@@ -15,7 +15,7 @@
 
 <h3 align="center"> Algorithm Studying</h3>
  <p align="center">
- # [CS STUDY](https://yoonstudy-diary.tistory.com/)
+ ### [CS STUDY](https://yoonstudy-diary.tistory.com/)
  <h5 align="center"> Data-Structure(Stack, Queue, priority_Queue, Tree(including BST, Segment Tree) , Graph , Linked-list) </h5>
  <h5 align="center"> Sorting(Bubble, Selection, Insertion, Quick, Merge, Radix, Topological) </h5>
  <h5 align="center"> Search(DFS, BFS, Binary-Search) </h5>
