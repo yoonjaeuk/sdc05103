@@ -23,6 +23,8 @@
  <h5 align="center"><a href="https://yoonstudy-diary.tistory.com/category/CS%20STUDY/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4" target="_blank">Database</a></h5>
 </p>
 
+
+## 📌 My Github Status
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sdc05103&show_icons=true&theme=radical" />
 </p>
