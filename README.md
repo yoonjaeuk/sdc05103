@@ -14,12 +14,13 @@
 </p>
 
 ## 📌 Computer Science
-<h3 align="center"><a href="https://yoonstudy-diary.tistory.com/" target="_blank">Chaeyoon's CS STUDY</a></h3>
+<h3 align="center">Chaeyoon's CS STUDY</a></h3>
  <p align="center">
  <h5 align="center"><a href="https://yoonstudy-diary.tistory.com/category/CS%20STUDY/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0" target="_blank">Data Structure</a></h5>
- <h5 align="center"> Algorithm(DFS, BFS, Binary-Search, Selection, Insertion, Quick, Merge, Radix) </h5>
- <h5 align="center"> Operating System(Process/Thread, PCB, IPC, CPU Scheduling, Momory, File System) </h5>
- <h5 align="center"> Network(7 Layers of the OSI Model, Load Balancing, TLS/SSL) </h5>
+ <h5 align="center"><a href="https://yoonstudy-diary.tistory.com/category/CS%20STUDY/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98" target="_blank">Algorithm</a></h5>
+ <h5 align="center"><a href="https://yoonstudy-diary.tistory.com/category/CS%20STUDY/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C" target="_blank">Operating System</a></h5>
+ <h5 align="center"><a href="https://yoonstudy-diary.tistory.com/category/CS%20STUDY/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC" target="_blank">Network</a></h5>
+ <h5 align="center"><a href="https://yoonstudy-diary.tistory.com/category/CS%20STUDY/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4" target="_blank">Database</a></h5>
 </p>
 
 <p align="center">
