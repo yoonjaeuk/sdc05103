@@ -13,6 +13,7 @@
 <img src = "https://img.shields.io/badge/Mysql-00AAFF?style=flat-square&logo=Mysql&logoColor=white"/>
 </p>
 
+## 📌 Computer Science
 <h3 align="center"><a href="https://yoonstudy-diary.tistory.com/" target="_blank">Chaeyoon's CS STUDY</a></h3>
  <p align="center">
  <h5 align="center"> Data-Structure(Stack, Queue, Tree , Graph , Linked-list) </h5>
