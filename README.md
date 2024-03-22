@@ -13,14 +13,13 @@
 <img src = "https://img.shields.io/badge/Mysql-00AAFF?style=flat-square&logo=Mysql&logoColor=white"/>
 </p>
 
-<h3 align="center"> Algorithm Studying</h3>
- <p align="center">
- <h5 align="center"> Data-Structure(Stack, Queue, priority_Queue, Tree(including BST, Segment Tree) , Graph , Linked-list) </h5>
- <h5 align="center"> Sorting(Bubble, Selection, Insertion, Quick, Merge, Radix, Topological) </h5>
- <h5 align="center"> Search(DFS, BFS, Binary-Search) </h5>
-</p>
-
 <h3 align="center"><a href="https://yoonstudy-diary.tistory.com/" target="_blank">Chaeyoon's CS STUDY</a></h3>
+ <p align="center">
+ <h5 align="center"> Data-Structure(Stack, Queue, Tree(including BST, Segment Tree) , Graph , Linked-list) </h5>
+ <h5 align="center"> Algorithm(DFS, BFS, Binary-Search, Selection, Insertion, Quick, Merge, Radix, Topological) </h5>
+ <h5 align="center"> Operating System(Process, Thread, PCB, IPC, CPU Scheduling, Paging, Momory, File System) </h5>
+ <h5 align="center"> Network(7 Layers of the OSI Model, TCP/UDP, Load Balancing, TLS/SSL) </h5>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sdc05103&show_icons=true&theme=radical" />
