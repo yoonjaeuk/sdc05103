@@ -19,6 +19,8 @@
  <h5 align="center"> Search(DFS, BFS, Binary-Search) </h5>
 </p>
 
+![Chaeyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdc05103&show_icons=true&theme=radical)
+
 <!--
 **sdc05103/sdc05103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
