@@ -16,7 +16,7 @@
 ## 📌 Computer Science
 <h3 align="center"><a href="https://yoonstudy-diary.tistory.com/" target="_blank">Chaeyoon's CS STUDY</a></h3>
  <p align="center">
- <h5 align="center"> Data-Structure(Stack, Queue, Tree , Graph , Linked-list) </h5>
+ <h5 align="center"><a href="https://yoonstudy-diary.tistory.com/category/CS%20STUDY/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0" target="_blank">Data Structure</a></h5>
  <h5 align="center"> Algorithm(DFS, BFS, Binary-Search, Selection, Insertion, Quick, Merge, Radix) </h5>
  <h5 align="center"> Operating System(Process/Thread, PCB, IPC, CPU Scheduling, Momory, File System) </h5>
  <h5 align="center"> Network(7 Layers of the OSI Model, Load Balancing, TLS/SSL) </h5>
