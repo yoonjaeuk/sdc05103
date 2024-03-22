@@ -14,7 +14,7 @@
 </p>
 
 ## 📌 Computer Science
-<h3 align="center">Chaeyoon's CS STUDY</a></h3>
+### 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
  <p align="center">
  <h5 align="center"><a href="https://yoonstudy-diary.tistory.com/category/CS%20STUDY/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0" target="_blank">Data Structure</a></h5>
  <h5 align="center"><a href="https://yoonstudy-diary.tistory.com/category/CS%20STUDY/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98" target="_blank">Algorithm</a></h5>
