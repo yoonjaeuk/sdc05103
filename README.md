@@ -1,5 +1,5 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" /></div>
-<h1>Woo Chaeyoon</h1>
+<h1>우채윤 Chaeyoon Woo</h1>
 
 <h3 align="center">🍎Tech Stack🍎</h3>
 <p align="center"> Techs that I've used at least once </p>
