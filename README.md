@@ -1,6 +1,6 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=#0100FF&height=150&section=header" /></div>
 <h3 align="center">💫Introduction💫</h3>
-<p align="center"> 안녕하세요 어쩌다보니 개발하는 감자🥔 우채윤입니다</p>
+<p align="center"> 안녕하세요 🥔어쩌다보니 개발하는 감자🥔 우채윤입니다</p>
 <h3 align="center">🍎Tech Stack🍎</h3>
 <p align="center"> Techs that I've used at least once </p>
 <p align="center">
