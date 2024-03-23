@@ -19,7 +19,7 @@
 ## 🏆Certification
  ▫︎ OPIC (IH) <sub>(2023.09)</sub> <br/>
  ▫︎ SQL 개발자 (SQLD) <sub>(2023.09)</sub> <br/>
- ▫︎ 정보처리기사 <sub>(2023.11)</sub> <br/> <br/>
+ ▫︎ 정보처리기사 <sub>(2023.11)</sub> <br/> 
  
 ## 💻Computer Science
 
