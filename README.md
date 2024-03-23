@@ -17,9 +17,9 @@
  ▫︎  2023.01 ~ 2023.12 멋쟁이사자처럼 11기 백엔드 개발자🦁
 
 ## 🏆Certification
- ▫︎ OPIC(IH) <sub>(2023.09)</sub> <br/>
- ▫︎ SQL 개발자(SQLD) <sub>(2023.09)</sub> <br/>
- ▫︎ 정보처리기사 <sub>(2023.11</sub> <br/> 
+ ▫︎ OPIC (IH) <sub>(2023.09)</sub> <br/>
+ ▫︎ SQL 개발자 (SQLD) <sub>(2023.09)</sub> <br/>
+ ▫︎ 정보처리기사 <sub>(2023.11)</sub> <br/> <br/>
  
 
 ## 💻Computer Science
