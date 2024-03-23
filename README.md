@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 <h1>Woo Chaeyoon</h1>
 
-<h3 align="center">💖Tech Stack💖</h3>
+<h3 align="center">🍎Tech Stack🍎</h3>
 <p align="center"> Techs that I've used at least once </p>
 <p align="center">
 <img src = "https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -15,7 +15,7 @@
 
 ## 💻 Computer Science
 
-<h3 align="center">👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖</h3>
+<h3 align="center">👶🏻 신입 개발자 전공 지식 & 기술 면접 정리 📖</h3>
  <p align="center">
  <h5 align="center"><a href="https://yoonstudy-diary.tistory.com/category/CS%20STUDY/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0" target="_blank">📌Data Structure</a></h5>
  <h5 align="center"><a href="https://yoonstudy-diary.tistory.com/category/CS%20STUDY/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98" target="_blank">📌Algorithm</a></h5>
@@ -25,7 +25,7 @@
 </p>
 
 
-## 📌 My Github Status
+## 💡 My Github Status
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sdc05103&show_icons=true&theme=radical" />
 </p>
