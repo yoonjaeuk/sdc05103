@@ -18,9 +18,9 @@
  ▫︎  신한투자증권 프로디지털아카데미 4기 (2023.03 ~ )
 
 ## 🏆Certification
- ▫︎ OPIC (IH) <sub>(2023.09)</sub> <br/>
- ▫︎ SQL 개발자 (SQLD) <sub>(2023.09)</sub> <br/>
- ▫︎ 정보처리기사 <sub>(2023.11)</sub> <br/> 
+ ▫︎ OPIC (IH)  
+ ▫︎ SQL 개발자 (SQLD)  
+ ▫︎ 정보처리기사  
  
 ## 💻Computer Science
 
