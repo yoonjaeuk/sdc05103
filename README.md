@@ -13,7 +13,7 @@
 <img src = "https://img.shields.io/badge/Mysql-00AAFF?style=flat-square&logo=Mysql&logoColor=white"/>
 </p>
 
-## 👩‍💻Profile
+<h3 align="center">👩‍💻Profile</h3>
  ▫︎  홍익대학교 컴퓨터공학과 (2019.03 ~ 2024.02)  
  ▫︎  멋쟁이사자처럼 11기 백엔드🦁 (2023.01 ~ 2023.12)  
  ▫︎  신한투자증권 프로디지털아카데미 4기 (2023.03 ~ )
