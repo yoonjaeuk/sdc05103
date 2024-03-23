@@ -1,6 +1,6 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=#0100FF&height=150&section=header" /></div>
 <h3 align="center">💫Introduction💫</h3>
-<p align="center"> 안녕하세요 🥔어쩌다보니 개발하는 감자🥔 우채윤입니다</p>
+<p align="center"> 안녕하세요 "어쩌다보니 개발하는 감자" 우채윤입니다🌱</p>
 <br><br>
 <h3 align="center">🍎Tech Stack🍎</h3>
 <p align="center">
@@ -33,7 +33,7 @@
  <h5 align="center"><a href="https://yoonstudy-diary.tistory.com/category/CS%20STUDY/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC" target="_blank">📌Network</a></h5>
  <h5 align="center"><a href="https://yoonstudy-diary.tistory.com/category/CS%20STUDY/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4" target="_blank">📌Database</a></h5>
 </p>
-
+<br><br>
 <h3 align="center">💡My Github Status</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sdc05103&show_icons=true&theme=radical" />
