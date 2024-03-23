@@ -1,6 +1,7 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=#0100FF&height=150&section=header" /></div>
 <div align="center">
 <h3 align="center">💫Introduction💫</h3>
+hr{border: 1px solid #000;}
 <p align="center"> 안녕하세요 "어쩌다보니 개발하는 감자" 우채윤입니다🌱</p>
 </div>
 <br><br>
