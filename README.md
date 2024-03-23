@@ -1,4 +1,4 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=#5CD1E58&height=150&section=header" /></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=##5CD1E5&height=150&section=header" /></div>
 <h3 align="center">우채윤(Chaeyoon Woo)</h3>
 <h3 align="center">🍎Tech Stack🍎</h3>
 <p align="center"> Techs that I've used at least once </p>
