@@ -1,6 +1,5 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=#5CD1E58&height=150&section=header" /></div>
 <h3 align="center">우채윤(Chaeyoon Woo)</h3>
-<br><br>
 <h3 align="center">🍎Tech Stack🍎</h3>
 <p align="center"> Techs that I've used at least once </p>
 <p align="center">
@@ -12,17 +11,14 @@
 <img src = "https://img.shields.io/badge/Spring-1DDB16?style=flat-square&logo=Spring&logoColor=white"/>
 <img src = "https://img.shields.io/badge/Mysql-00AAFF?style=flat-square&logo=Mysql&logoColor=white"/>
 </p>
-<br><br>
 <h3 align="center">👩‍💻Profile</h3>
 <p align="center">홍익대학교 컴퓨터공학과 (2019.03 ~ 2024.02)</p>
 <p align="center">멋쟁이사자처럼 11기 백엔드🦁 (2023.01 ~ 2023.12) </p>
 <p align="center">신한투자증권 프로디지털아카데미 4기 (2023.03 ~ ) </p>
-<br><br>
 <h3 align="center"> 🏆Certification</h3>
 <p align="center">OPIC(IH)</p>
 <p align="center">SQL 개발자(SQLD)</p> 
 <p align="center">정보처리기사</p>
-<br><br>
 <h3 align="center"💻Computer Science</h3>
 
 <h3 align="center">👶🏻 신입 개발자 전공 지식 & 기술 면접 정리 📖</h3>
