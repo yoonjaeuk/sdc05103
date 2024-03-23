@@ -13,7 +13,7 @@
 <img src = "https://img.shields.io/badge/Mysql-00AAFF?style=flat-square&logo=Mysql&logoColor=white"/>
 </p>
 
-## 💻 Computer Science
+## 💻Computer Science
 
 <h3 align="center">👶🏻 신입 개발자 전공 지식 & 기술 면접 정리 📖</h3>
  <p align="center">
@@ -25,7 +25,7 @@
 </p>
 
 
-## 💡 My Github Status
+## 💡My Github Status
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sdc05103&show_icons=true&theme=radical" />
 </p>
