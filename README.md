@@ -21,7 +21,6 @@
  ▫︎ SQL 개발자 (SQLD) <sub>(2023.09)</sub> <br/>
  ▫︎ 정보처리기사 <sub>(2023.11)</sub> <br/> <br/>
  
-
 ## 💻Computer Science
 
 <h3 align="center">👶🏻 신입 개발자 전공 지식 & 기술 면접 정리 📖</h3>
@@ -32,7 +31,6 @@
  <h5 align="center"><a href="https://yoonstudy-diary.tistory.com/category/CS%20STUDY/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC" target="_blank">📌Network</a></h5>
  <h5 align="center"><a href="https://yoonstudy-diary.tistory.com/category/CS%20STUDY/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4" target="_blank">📌Database</a></h5>
 </p>
-
 
 ## 💡My Github Status
 <p align="center">
