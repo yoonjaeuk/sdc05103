@@ -3,6 +3,7 @@
 <h3 align="center">💫Introduction💫</h3>
 <p align="center"> 안녕하세요 "어쩌다보니 개발하는 감자" 우채윤입니다🌱</p>
 </div>
+<br><br>
 <h3 align="center">🍎Tech Stack🍎</h3>
 <p align="center">
 <img src = "https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -15,7 +16,6 @@
 </p>
 <br><br>
 <h3 align="center">👩‍💻Profile</h3>
-___
 <p align="center">홍익대학교 컴퓨터공학과 (2019.03 ~ 2024.02)</p>
 <p align="center">멋쟁이사자처럼 11기 백엔드🦁 (2023.01 ~ 2023.12) </p>
 <p align="center">신한투자증권 프로디지털아카데미 4기 (2023.03 ~ ) </p>
