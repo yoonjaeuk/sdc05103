@@ -1,4 +1,4 @@
-<h1>Woo Chaeyoon / </h1>
+<h1>Woo Chaeyoon</h1>
 
 <h3 align="center">🍎Tech Stack🍎</h3>
 <p align="center"> Techs that I've used at least once </p>
@@ -15,6 +15,7 @@
 ## 👩‍💻Profile
  ▫︎  2019.03 ~ 2024.02 홍익대학교 컴퓨터공학과  
  ▫︎  2023.01 ~ 2023.12 멋쟁이사자처럼 11기 백엔드 개발자🦁
+
 
 ## 🏆Certification
  ▫︎ OPIC (IH) <sub>(2023.09)</sub> <br/>
