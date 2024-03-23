@@ -2,7 +2,6 @@
 <h3 align="center">💫Introduction💫</h3>
 <p align="center"> 안녕하세요 🥔어쩌다보니 개발하는 감자🥔 우채윤입니다</p>
 <h3 align="center">🍎Tech Stack🍎</h3>
-<p align="center"> Techs that I've used at least once </p>
 <p align="center">
 <img src = "https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src = "https://img.shields.io/badge/C-FFFF00?style=flat-square&logo=C&logoColor=black"/>
