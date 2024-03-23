@@ -12,7 +12,7 @@
 <img src = "https://img.shields.io/badge/Spring-1DDB16?style=flat-square&logo=Spring&logoColor=white"/>
 <img src = "https://img.shields.io/badge/Mysql-00AAFF?style=flat-square&logo=Mysql&logoColor=white"/>
 </p>
-
+<br><br>
 <h3 align="center">👩‍💻Profile</h3>
 <p align="center">홍익대학교 컴퓨터공학과 (2019.03 ~ 2024.02)</p>
 <p align="center">멋쟁이사자처럼 11기 백엔드🦁 (2023.01 ~ 2023.12) </p>
